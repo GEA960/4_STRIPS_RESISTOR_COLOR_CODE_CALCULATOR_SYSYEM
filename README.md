@@ -1,1 +1,3 @@
-# 4_STRIPS_RESISTOR_COLOR_CODE_CALCULATOR_SYSYEM
+4 STRIPS RESISTOR COLOR CODE CALCULATOR SYSYEM
+    This a program that will calculate the value of a resistor based on its color patches.
+    A Computer Programming Course Final Requirement.
